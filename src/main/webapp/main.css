@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+
+.content {
+    margin-top: 15px;
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: red;
+}
+
+.product{
+	background-color: beige;
+    width: 270px;
+    padding-left: 50px;
+    padding-top: 28px;
+    height: 433px;
+	color: chocolate;
+    font-family: serif;
+}
+
+.Buyying a {
+
+    text-decoration: none;
+    border: 1px solid;
+    color: chocolate;
+}
