@@ -3,7 +3,7 @@ simple e-commerce project using servlets and JSP
 
 
 
-<h2> Main Funcations</h2>
+<h2 style="color:red"> Main Funcations</h2>
 <br>
 <ul>
   <li>User Login</li>
